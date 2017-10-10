@@ -1,0 +1,2 @@
+# IPv6GCDAsyncSocket
+支持ipv6的GCDAsyncSocket
